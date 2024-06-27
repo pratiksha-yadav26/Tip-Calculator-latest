@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qure AI Tip</string>
+    <string name="continue_to_payment">Continue to Payment</string>
+    <string name="empty">""</string>
+    <string name="thanks">"Thank you for your contribution\uD83C\uDF89 \uD83D\uDE4F"</string>
+    <string name="gratitude">"Our staff is grateful for your generosity \uD83D\uDE4F \uD83C\uDF89"</string>
+    <string name="split_title">"No. of peoples paying the bill"</string>
+    <string name="tip_title">"Total Tip Amount:"</string>
+    <string name="enter_amt">"Enter Total Bill Amount"</string>
+</resources>
